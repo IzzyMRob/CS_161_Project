@@ -3,8 +3,7 @@
 
 ## Project Overview
 
-### Goals
-goals
+information about things idk
 
 ### Technology
 - This project was completed in python using a variety of libraries for data analysis including: numpy, pandas, matplotlib, scikitlearn, seaborn.
@@ -56,7 +55,8 @@ filename
 
 ### Limitations
 - There is very little public streaming data availible because of privacy laws.
-- There is only in-depth data for songs that reached #1 at some point, 
+- There is only in-depth data for songs that reached #1 at some point.
+- 
 
 ### Future Goals
 - We would love to see how 
