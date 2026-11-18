@@ -1,10 +1,15 @@
-# Analyzing Musical Shifts Over Time
+# Analyzing Shifts in Popular Music Over Time
+
 
 ## Project Overview
 
+### Goals
 goals
 
-technology(python, libraries) used
+### Technology
+- This project was completed in python using a variety of libraries for data analysis including: numpy, pandas, matplotlib, scikitlearn, seaborn.
+- Additional details about library usage can be found in each Notebook.
+
 
 ## Questions of Interest
 
@@ -13,19 +18,26 @@ technology(python, libraries) used
 #### 3. Is there a correlation between artist demographics and a song's top ranking?
 #### 4. How have musical elements of songs changed over time?
 
+
 ## File Organization
 
-file names and descriptions, question tackled in each file
+filename
+- created by ___
+- Tackling question #_
+
+filename
+- created by ___
+- Tackling question #_
 
 ## Credits
 
-#### Contributors
+### Contributors
 - Caden Billy
 - George Dokken
 - Derec Gregory
 - Izzy Robbins
 
-Created for CS 161 with Professor Cheng
+### Final project for CS 161 with Professor Cheng at Willamette University
 
 #### Data
 
@@ -39,11 +51,15 @@ Created for CS 161 with Professor Cheng
 - August 4, 1958 (first Billboard Hot 100) through present.
 - Compiled by Michael Hollingshead.
 
+
 ## Reflection
 
-roadbloacks
+### Limitations
+- There is very little public streaming data availible because of privacy laws.
+- There is only in-depth data for songs that reached #1 at some point, 
 
-future goals
+### Future Goals
+- We would love to see how 
 
 
 ## Important Links
