@@ -1,9 +1,40 @@
 # CS_161_Project
-## Contributors:
-Caden B, George D, Derec G, Izzy R
 
-## Description
-Repository to hold all of our files and work for the CS161 project.
+## Project Overview
+
+goals
+
+technology(python, libraries) used
+
+## Questions of Interest
+
+questions
+
+## File Organization
+
+file names and descriptions, question tackled in each file
+
+## Credits
+
+#### Contributors
+- Caden Billy
+- George Dokken
+- Derec Gregory
+- Izzy Robbins
+
+Created for CS 161 with Professor Cheng
+
+#### Data
+
+- dataset from ___
+explain
+
+## Reflection
+
+roadbloacks
+
+future goals
+
 
 ## Important Links
 [Project Proposal](https://docs.google.com/document/d/1CfKHIYFAo_kIuw2GRDKU1K3nqRkEbX4AUUhC-h3T8UA/edit?tab=t.0)
