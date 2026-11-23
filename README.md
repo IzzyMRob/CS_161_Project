@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-information about things idk
+This CS161 project seeks to analyze Billboard Top 100 Data from two different datasets to discover trends in popular music over time. Within this project, we decided to look at musical topics and themes, demographics, musical elements, weeks charting at number one, the usage of explicit language, etc. 
 
 ### Technology
 - This project was completed in python using a variety of libraries for data analysis including: numpy, pandas, matplotlib, scikitlearn, seaborn.
@@ -27,6 +27,18 @@ filename
 filename
 - created by ___
 - Tackling question #_
+
+filename
+- created by ___
+- Tackling question #_
+
+work.ipnyb
+- created by Derec
+- Tackling question #4
+
+machinelearning.ipynb
+- created by Derec
+- Tackling machine learning model
 
 ## Credits
 
@@ -59,7 +71,8 @@ filename
 - 
 
 ### Future Goals
-- We would love to see how 
+- We would love to explore how ratings change based on listener demographics.
+- We would also be interested to see how these rankings change worldwide.
 
 
 ## Important Links
