@@ -76,3 +76,4 @@ machinelearning.ipynb
 
 ## Important Links
 [Project Proposal](https://docs.google.com/document/d/1CfKHIYFAo_kIuw2GRDKU1K3nqRkEbX4AUUhC-h3T8UA/edit?tab=t.0)
+[Final Presentation] (https://docs.google.com/presentation/d/1KoMceCInZA6d8JSCJ36G7yqRkAo15_hkZYadB5nSs3A/edit?usp=sharing)
