@@ -20,19 +20,19 @@ This CS161 project seeks to analyze Billboard Top 100 Data from two different da
 
 ## File Organization
 
-filename
-- created by ___
-- Tackling question #_
+izzy_lyric_topic.ipynb
+- created by Izzy
+- Tackling question #1
 
-filename
-- created by ___
-- Tackling question #_
+george_explicit.ipynb
+- created by George
+- Tackling question #2
 
-filename
-- created by ___
-- Tackling question #_
+caden_artist_demographic.ipynb
+- created by Caden
+- Tackling question #3
 
-work.ipnyb
+derecplots.ipnyb
 - created by Derec
 - Tackling question #4
 
@@ -68,7 +68,6 @@ machinelearning.ipynb
 ### Limitations
 - There is very little public streaming data availible because of privacy laws.
 - There is only in-depth data for songs that reached #1 at some point.
-- 
 
 ### Future Goals
 - We would love to explore how ratings change based on listener demographics.
