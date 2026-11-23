@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-information about things idk
+This CS161 project seeks to analyze Billboard Top 100 Data from two different datasets to discover trends in popular music over time. Within this project, we decided to look at musical topics and themes, demographics, musical elements, weeks charting at number one, the usage of explicit language, etc. 
 
 ### Technology
 - This project was completed in python using a variety of libraries for data analysis including: numpy, pandas, matplotlib, scikitlearn, seaborn.
@@ -20,13 +20,25 @@ information about things idk
 
 ## File Organization
 
-filename
-- created by ___
-- Tackling question #_
+izzy_lyric_topic.ipynb
+- created by Izzy
+- Tackling question #1
 
-filename
-- created by ___
-- Tackling question #_
+george_explicit.ipynb
+- created by George
+- Tackling question #2
+
+caden_artist_demographic.ipynb
+- created by Caden
+- Tackling question #3
+
+derecplots.ipnyb
+- created by Derec
+- Tackling question #4
+
+machinelearning.ipynb
+- created by Derec
+- Tackling machine learning model
 
 ## Credits
 
@@ -56,11 +68,12 @@ filename
 ### Limitations
 - There is very little public streaming data availible because of privacy laws.
 - There is only in-depth data for songs that reached #1 at some point.
-- 
 
 ### Future Goals
-- We would love to see how 
+- We would love to explore how ratings change based on listener demographics.
+- We would also be interested to see how these rankings change worldwide.
 
 
 ## Important Links
 [Project Proposal](https://docs.google.com/document/d/1CfKHIYFAo_kIuw2GRDKU1K3nqRkEbX4AUUhC-h3T8UA/edit?tab=t.0)
+[Final Presentation] (https://docs.google.com/presentation/d/1KoMceCInZA6d8JSCJ36G7yqRkAo15_hkZYadB5nSs3A/edit?usp=sharing)
