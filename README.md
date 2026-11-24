@@ -6,7 +6,7 @@
 This CS161 project seeks to analyze Billboard Top 100 Data from two different datasets to discover trends in popular music over time. Within this project, we decided to look at musical topics and themes, demographics, musical elements, weeks charting at number one, the usage of explicit language, etc. 
 
 ### Technology
-- This project was completed in python using a variety of libraries for data analysis including: numpy, pandas, matplotlib, scikitlearn, seaborn.
+- This project was completed in python using a variety of libraries for data analysis, including: `numpy`, `pandas`, `matplotlib`, `scikitlearn`, `seaborn`.
 - Additional details about library usage can be found in each Notebook.
 
 
